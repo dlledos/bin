@@ -1,1 +1,7 @@
 export PATH="$PATH:$HOME/bin"
+
+export CVSROOT=":pserver:dlledos@cvs01c.int94.cvf:/usr2/cvs"
+
+export JAVA_HOME=/home/dlledos/bin/jdk1.7.0_79/
+
+#export http_proxy=nrs-proxy.ad-subs.w2k.francetelecom.fr:3128
